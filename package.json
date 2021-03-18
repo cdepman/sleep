@@ -1,0 +1,11 @@
+{
+  "name": "sleep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "charlie",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  }
+}
